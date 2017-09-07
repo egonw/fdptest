@@ -6,7 +6,7 @@
 @prefix datacite: <http://purl.org/spar/datacite/>.
 
 <> rdf:type dcat:Distribution;
-    dct:title "Wikipathways data";
+    dct:title "WikiPathways data";
     dct:license <http://purl.org/NET/rdflicense/cc-zero1.0>;
     dct:hasVersion "1.0";
     dcat:accessURL <http://www.wikipathways.org/>;
