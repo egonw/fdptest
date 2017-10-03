@@ -7,8 +7,8 @@
 @prefix datacite: <http://purl.org/spar/datacite/>.
 
 <> rdf:type dcat:Catalog;
-    dct:title "WikiPathways data";
-    dct:hasVersion "1.00";
+    dct:title "WikiPathways Catalog";
+    dct:hasVersion "1.01";
     dct:publisher <http://www.dtls.nl/>;
     dcat:themeTaxonomy <http://www.wikidata.org/entity/Q4915012>.
 <http://www.dtls.nl/> rdf:type foaf:Organization;
